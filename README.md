@@ -19,6 +19,7 @@ My finished projects:
 - Grade 11: Connect4 Replica (Repo name: [Connect4Personal](https://github.com/NTMQuannuaQMTN/Connect4Personal)) for fun.
 - Grade 11: Number memory game (Repo name: [NumberMem](https://github.com/NTMQuannuaQMTN/NumberMem)) for fun.
 - Grade 11: SingMyTone (Repo name: [SingMyTone](https://github.com/NTMQuannuaQMTN/SingMyTone)) - A tool converting the song pitch to match your voice. Positively impacting about 100 users.
+- Grade 11: GUESS THE PUBG PLAYER (PGS5 EDITION) (Repo name: [GuessPlayerPGS5](https://github.com/NTMQuannuaQMTN/GuessPlayerPGS5)) - A game to guess the PGS5 (PUBG Global Series 5) player as the event was ready to start.
 - *Grade 11 (Pending): Online library for librarian*
 - *Grade 11 (Don't know yet): A social media*
 
