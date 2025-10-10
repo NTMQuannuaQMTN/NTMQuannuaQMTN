@@ -21,8 +21,10 @@ My finished projects:
 - Grade 11: SingMyTone (Repo name: [SingMyTone](https://github.com/NTMQuannuaQMTN/SingMyTone)) - A tool converting the song pitch to match your voice. Positively impacting about 100 users.
 - Grade 11: GUESS THE PUBG PLAYER (PGS5 EDITION) (Repo name: [GuessPlayerPGS5](https://github.com/NTMQuannuaQMTN/GuessPlayerPGS5)) - A game to guess the PGS5 (PUBG Global Series 5) player as the event was ready to start.
 - Grade 11: Math Game (Repo name: [MathGame](https://github.com/NTMQuannuaQMTN/MathGame)) - A math game used for grade 9 students for entrance exam.
-- *Grade 11 (Currently): Internship at Garastem*
-- *Grade 11 (Currently): A social media app*
+- Grade 11: Internship at Garastem
+- Grade 11: A social media app named Ricefield (Link: [https://ricefield.social/](https://ricefield.social/)) for college students in USA, 1000+ users in 2 months
+- Grade 12: Developing a photo-sharing social media app named Homee
+- Grade 12: Founding the school's tech club, dev club, and AI club named The Noders
 
 ## Coding skills
 - HTML
@@ -30,8 +32,9 @@ My finished projects:
 - JavaScript (ReactJS)
 - React Native
 - BootStrap
+- TailwindCSS
 - C/C++
 - Java
 - Python
-- SQL
-- R
+- PostgreSQL
+- Supabase
