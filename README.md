@@ -21,9 +21,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NTMQuannuaQMTN&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NTMQuannuaQMTN&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=NTMQuannuaQMTN&icon=0&color=4)](https://visitcount.itsvg.in)
