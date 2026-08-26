@@ -85,15 +85,6 @@ An end-to-end statistical prediction engine for esports tournaments using histor
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
 ## 💡 What I'm Looking For
 
 I'm interested in opportunities where I can work on challenging engineering problems and build products that people actually use.
