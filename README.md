@@ -34,7 +34,7 @@ I enjoy turning ideas into working products — from full-stack web applications
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
