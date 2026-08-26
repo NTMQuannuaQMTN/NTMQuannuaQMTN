@@ -1,25 +1,111 @@
-## Hi there 👋, I'm Nguyễn Trương Mạnh Quân, glad to see you here!
+# 👋 Hi, I'm Nguyễn Trương Mạnh Quân
 
-# 💫 About Me:
-🔭 I’m currently working on a tech agency called Doorians Lab<br>🌱 I’m currently learning Software Engineering and Computer Science<br>I'm a freshman studying in National University of Singapore (NUS). I am an amateur (or junior, I don't know accurately) fullstack web app developer.
+### Computer Science Student @ NUS | Software Engineer | AI Builder
 
+I'm a Computer Science student at the **National University of Singapore** interested in building practical software, AI-powered systems, and developer tools.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qnrj_arsaldx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-truong-manh-quan) 
+I enjoy turning ideas into working products — from full-stack web applications to AI agents and data-driven systems.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nguyen-truong-manh-quan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 
-## Projects and Experiences
-- EZ-Komu (Repo name: [Quan-Quang-Phuoc-8A13](https://github.com/NTMQuannuaQMTN/Quan-Quang-Phuoc-8A13)) for the National Competition for Designing & Building Technologies for People with Disabilities. EZ-Komu is a communication-assistant tool for individuals with muteness and deafness.
-- Class portfolio (Repo name: [8A13-MV-Class](https://github.com/NTMQuannuaQMTN/8A13-MV-Class/)).
-- Internship at Garastem.
-- A social media app named Ricefield (Link: [https://ricefield.social/](https://ricefield.social/)) for college students in USA, 1000+ users in 2 months.
-- Developing a photo-sharing social media app named Homee, getting 200+ users.
-- Founding the school's tech club, dev club, and AI club named The Noders.
-- Founding Doorians Lab (Link: [https://doorians.com/](https://www.doorians.com/)), an agency with a mission to build tech products for startups, getting 5 clients from Vietnam and the USA.
-- Developing a high school platform for students to find schools that is suitable for them for their three years of high school.
-- Predicting the winner of the Esports World Cup PUBG.
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NTMQuannuaQMTN&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 What I'm Building
+
+🔭 **Currently building [SprintSync](https://usesprintsync.vercel.app/)** — an AI-powered developer productivity tool that automatically turns GitHub commits into actionable task-list updates.
+
+🌱 **Currently learning** — Backend Engineering, AI/ML, and scalable software architecture.
+
+🎓 **Studying** — Computer Science at the **National University of Singapore**
+
+🎯 **Interested in** — Software Engineering, AI Engineering, Full-Stack Development, and Developer Tools.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,sql" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase" />
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` · `Pandas` · `Machine Learning` · `AI Agents`
+
+### Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### ⚡ SprintSync
+
+**AI Agent for GitHub → Task List Automation**
+
+SprintSync processes GitHub commits, analyzes what the code change accomplishes, and automatically updates a task list.
+
+The current version supports generating its task-list structure from uploaded **Google Docs, PDF, and DOCX files**, allowing the agent to understand the project's existing task structure before processing commits.
+
+**Tech:** `Python` · `AI Agents` · `GitHub` · `Vercel`
+
+🔗 [Live Demo](https://usesprintsync.vercel.app/)
+
+> Currently developing **SprintSync V2** with a stronger focus on developer workflows and project-management integrations.
+
+---
+
+### 📊 PUBG Esports World Cup Prediction Engine
+
+An end-to-end statistical prediction engine for esports tournaments using historical data, statistical modeling, and Monte Carlo simulation to forecast tournament outcomes.
+
+**Tech:** `Python` · `Pandas` · `NumPy` · `Monte Carlo Simulation`
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+## 💡 What I'm Looking For
+
+I'm interested in opportunities where I can work on challenging engineering problems and build products that people actually use.
+
+Currently focused on developing stronger skills in:
+
+`Software Engineering` · `Backend Systems` · `AI/ML` · `Full-Stack Development` · `Developer Tools`
+
+If you're building something interesting, I'd be happy to connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen-truong-manh-quan/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
