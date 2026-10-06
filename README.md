@@ -13,13 +13,15 @@ I enjoy turning ideas into working products — from full-stack web applications
 
 ## 🚀 What I'm Building
 
-🔭 **Currently building [SprintSync](https://usesprintsync.vercel.app/)** — an AI-powered developer productivity tool that automatically turns GitHub commits into actionable task-list updates.
+🔭 **Currently building an AI math teacher for ninth graders in Vietnam to prepare for high school entrance exam and a Rubik's cube move scanner as small projects for fun.
 
 🌱 **Currently learning** — Backend Engineering, AI/ML, and scalable software architecture.
 
 🎓 **Studying** — Computer Science at the **National University of Singapore**
 
 🎯 **Interested in** — Software Engineering, AI Engineering, Full-Stack Development, and Developer Tools.
+
+💼 **Working at** - Developer Group @ NUS Computing
 
 ---
 
